@@ -13,5 +13,9 @@
 }
 
 .featured-image {
-  background-color:#fff;  
+  background-color: #fff;
+}
+
+.entry-content p img {
+  width: 100%;
 }
