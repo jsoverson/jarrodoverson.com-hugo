@@ -4,7 +4,7 @@ showonlyimage = false
 draft = false
 image = "/images/post/wick/wick-release-0.14.png"
 date = "2023-08-28T21:11:33.488Z"
-title = "Wick: An overdue introduction"
+title = "A retrospective on building Wick"
 categories = [ "security", "wick", "WebAssembly" ]
 +++
 
